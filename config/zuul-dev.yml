@@ -2,7 +2,7 @@ spring:
   application:
     name: zuul
     
-cloud:
+  cloud:
     config:
       override-none: true    
     
